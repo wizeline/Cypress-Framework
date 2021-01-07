@@ -56,7 +56,7 @@ $ npm run cy:run-chrome
 ```
 $ npm run cy:run-firefox
 ```
-- - Running the test in headless mode with Electron
+- Running the test in headless mode with Electron
 ```
 $ npm run cy:run-electron
 ```
