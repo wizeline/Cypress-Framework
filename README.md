@@ -48,15 +48,15 @@ $ npm install
 ```
 $ npm run cy:open
 ```
-- Running the test in headless mode with Chrome
+- Running the tests in headless mode with Chrome
 ```
 $ npm run cy:run-chrome
 ```
-- Running the test in headless mode with Firefox
+- Running the tests in headless mode with Firefox
 ```
 $ npm run cy:run-firefox
 ```
-- Running the test in headless mode with Electron
+- Running the tests in headless mode with Electron
 ```
 $ npm run cy:run-electron
 ```
